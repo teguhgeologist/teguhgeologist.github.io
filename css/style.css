@@ -1,0 +1,38 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Jumbotron */
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+/* End Jumbotron */
+
+/* Projects */
+#project {
+    background-color: #e2edff;
+}
+/* End Projects */
+
+/* Gallery */
+.gallery-img {
+    width: 100%;
+
+}
+
+#gallery .row > * {
+    padding: 5px;
+}
+/* End Gallery */
+
+section {
+    padding-top: 6rem;
+}
